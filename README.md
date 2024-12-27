@@ -1,4 +1,4 @@
-# Le plugin WordPress Jiti Search Logger
+# Le plugin WordPress Jiti Search Logger (Version expérimentale, à utiliser avec précaution)
 * Ce plugin pour WordPress ajoute un widget dans l'admin du CMS, affichant les dernières recherches effectuées sur votre site.
 * Un bouton permet de vider l'historique.
 
