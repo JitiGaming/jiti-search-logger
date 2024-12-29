@@ -97,5 +97,3 @@ function search_logger_display_widget() {
     echo '<button type="submit" name="search_logger_clear" class="button">Effacer l\'historique</button>';
     echo '</form>';
 }
-
-?>
